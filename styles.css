@@ -1,0 +1,19 @@
+body{
+font-family: 'Poppins', sans-serif;
+background: linear-gradient(120deg,#667eea,#764ba2);
+min-height:100vh;
+}
+
+.card{
+border-radius:12px;
+box-shadow:0 8px 20px rgba(0,0,0,0.2);
+}
+
+.btn:hover{
+transform:scale(1.05);
+transition:0.3s;
+}
+
+a{
+text-decoration:none;
+}
