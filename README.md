@@ -127,23 +127,23 @@ Reset Password → Login
 
 ### 🔑 Login Page
 
-![Login Page](screenshots/login.png)
+![Login Page](screenshots/login.png?raw=true)
 
 ### 📝 Register Page
 
-![Register Page](screenshots/register.png)
+![Register Page](screenshots/register.png?raw=true)
 
 ### 📧 Forgot Password Page
 
-![Forgot Password Page](screenshots/forgot-password.png)
+![Forgot Password Page](screenshots/forgot-password.png?raw=true)
 
 ### 🔒 Reset Password Page
 
-![Reset Password Page](screenshots/reset-password.png)
+![Reset Password Page](screenshots/reset-password.png?raw=true)
 
 ### 📊 Dashboard Page
 
-![Dashboard Page](screenshots/dashboard.png)
+![Dashboard Page](screenshots/dashboard.png?raw=true)
 
 ---
 
